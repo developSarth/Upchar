@@ -91,13 +91,13 @@ iv) Another alternative source can be on basis of medicines.
 
 Upchar – Business Revenue Model
 
-1. Commission-Based Model (35%)
+1. Commission-Based Model 
 
-2. User Subscription Plans (20%)
+2. User Subscription Plans 
 
-3. Health Analytics & Outbreak Dashboard (25%)
+3. Health Analytics & Outbreak Dashboard 
 
-4. Medicine Insights Data (20%)
+4. Medicine Insights Data 
 
 💊 Pharma companies → demand prediction (branded vs. generics)
 
