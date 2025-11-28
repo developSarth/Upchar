@@ -1,0 +1,289 @@
+Type of Hospital/Health facility,Hospital Name,Address,Contact,Availability
+Govt,"Gokuldas Tejpal Hospital, Fort","Chhatrapati Shivaji Terminus Area, Fort","22621464, 22621465,22630552 Dr Chikhalkar - 9969037650","Few Left, Book Now"
+BMC,ENT Hospital,"Maharshi Dadhichi Marg, Azad Maidan","22042526, 22043322, 28480065 Dr Deepika Rana - 9892727831",Limited Seats
+Govt,St George Hospital,"Chhatrapati Shivaji Terminus Area, Fort",22620242/44/45/46/47 Dr Akash Khobragade - 9702658822,"Few Left, Book Now"
+Govt,Cama & Albless Hospital,"Dhobi Talao, Chhatrapati Shivaji Terminus Area","22611648, 22611654, 22611871 DrTushar Palve - 9821301454","Few Left, Book Now"
+Defence,INS Ashwini Hospital,"Navy Nagar, Colaba,","22151641, 22620390, 22143650 Dr Vivek Hande - 9869409721",Conditional
+Private,Bombay Hospital,"Near Liberty Cinema, New Marine Lines,","22067676, 22062082 Dr Rajkumar Patil - 982062804",Available
+Private,Indu Clinic,"Wodehouse Road, Colaba ","22182323, 22183131 Dr Sameer Trivedi - 9820060698",Available
+Private ,Noor Hospital,Masjid Bunder,"Dr Khatija 9320112252, 23463500",Available
+Private ,Habib Hospital,"Jail Road, Near Imam Husain Chowk","23757573, 23788100",Available
+Private ,Dholkawala Maternity and Nursing Home,"Mohammed Ali Rd, Masjid Bandar","23412635, 23429607",Available
+Private ,M H Saboo Siddique Hospital,"Imamwada Road, Opp. Mughal Masjid",23767343 Dr Nasir 98223231077,Available
+Private ,Haji Karim Maternity and Child Care,"Mohammed Ali Rd, Masjid Banda","2341130, 8879007713",Available
+Private ,Breach Candy Hospital Trust,"Breach Candy, Cumballa Hill",23671888/23667788,Available
+Private ,Bhatia Hospital Multidisciplinary,"Tardeo Road,",9820276222/8879788180,Available
+Private ,Jaslok Hospital & Research Centre,"IT Colony, Tardeo",40173010/40173348/9820548,Available
+Private ,Saifee Hospital,"15/17, Maharshi Karve Rd, opposite Charni Road, Charni Road East",67570212/67570111,Available
+Private ,Sir H.N.Hospital & Research Centre,Girgaon,7718830485/9958063262,Available
+Private ,The B.D.Petit Parsee Gen Hosp,"Bomanji Petit Marg, Cumballa Hill",9454966321,Available
+Private ,Apollo Speciaity Hospitals Pvt Ltd,"Behind Everest Building, Tardeo",9845381818,Available
+Private ,Bay-View Clinic,,9821270400/9819672997,Available
+Private ,Beramji's Hospital,,9920300043,Available
+Private ,Bombay City Eye Institute And Research Centre,,43671011/9970589985,Available
+Private ,Bombay Maternity And Nursing Home,,9920955021,Available
+Private ,Brahman Sabha Mhaskar Sutika Gruha & Gen N,,9920955021,Available
+Private ,Chowpatty Maternity & Gyn Hospital,,9820289946,Available
+Private ,Comfort Clinic Nursing Home,,79632568/9820548540/ 9820078357,Available
+Private ,Conwest Jain Clinic Group Of Hosp,,23820909/9820010701,Available
+Private ,Cumballa Hill Hospital & Heart Inst,,23803336,Available
+Private ,Dr Amonkar Hospital-Managed By P Patil Nurs. Home,,981973231,Available
+Private ,Dr Duru Shah Gynaec World,,9820074875,Available
+Private ,Dr Gala's Nursing Home,,9821044727,Available
+Private ,Dr Garg Medical Centre,,9820087548/9820239958,Available
+Private ,Dr H D Gandhi Memorial Hospital,,9821469932/9821284555,Available
+Private ,Dr Pathak Nursing Home,,23061323/9869013667/97732,Available
+Private ,Dr Vora's Maternity And Gynaecological Hosp,,9920244870/9820019539,Available
+Private ,Dr Vora's Nursing Home,,9920244870/9820019539,Available
+Private ,Dr. N K Shah One Day Surgery Centre,,9820414641/9870538780,Available
+Private ,Drushti Eye & Retina Centre,,23880505/23804086,Available
+Private ,Fauziya Maternity & Nursing Home,,23008306,Available
+Private ,Foresight Eye Centre,,23610168/23614235,Available
+Private ,Healing Hands Nursing Home,,8888066664/8888188885,Available
+Private ,Hospital For Women Care Maternity And Gynaec Hosp,,23648759/23677874,Available
+Private ,Infiniti Eye Hospital,,9820623163/69180000,Available
+Private ,Inkus Ivf Centre,,9930151703/23825253,Available
+Private ,Joshi Nursing Home,,9833119723,Available
+Private ,Kamala Polyclinic & Nusing Home,,23887865/23885985/9325523/513,Available
+Private ,Mehta Clinic,,23802764,Available
+Private ,Motiben B Dalvi Hospital,,68126712,Available
+Private ,Narvekar Clinic,,23876081,Available
+Private ,Nicholson Eye Clinic,,9820724969,Available
+Private ,Nisar Eye Hospital,,9820113436/23876583/23873941,Available
+Private ,Pai-Dhungat Nursing Home,,23828407/9820182464/98330 16128/9819484461/49635407,Available
+Private ,Punjani Nursing Home,,23670785,Available
+Private ,SP Nursing Home And Polyclinic,,9819779027/9820047231,Available
+Private ,Sadhu-Kamal Eye Hospital,,8828841788/9930151932,Available
+Private ,Shah Eye Clinic & Nursing Home,,23534458/23524284/9322510386,Available
+Private ,St Elizabeth's Hospital,,61452119,Available
+Private ,Ruxmani Lying-In Hospital,,23670785,Available
+Private ,VADT Nursing Home,,23860580/23824757,Available
+Private ,Vasani Eye Clinic/Eyes Rvs,,9820088510,Available
+Private ,Vital Diagnostic Centre And Nursing Home,,9324595818,Available
+Private ,Yogeshwar Surgical Nursing Home,,9004205948,Available
+Private ,Fertility Clinic,,9892768237/9820026087,Available
+Private ,Vascular Clinic,,9820281660,Available
+Municipal,Kasturba Hospital,"Sane Guruji Marg, Arya Nagar, Chinchpokli",23083901,Available
+Municipal,BYL Nair Hospital,"Topiwala National Medical College, RTO Colony, Mumbai Central","23081490, 23081491",Available
+Government,JJ Hospital,"J J Marg, Nagpada-Mumbai Central","23735555, 23731144","Few Left, Book Now"
+Government,"Ambedkar Hospital (Central Railway Hospital), Byculla","Dr. Baba Saheb Ambedkar Road, Byculla East","23717246, 23717247","Few Left, Book Now"
+Government,"Jagjivanram Hospital, Western Rly","Maratha Mandir Marg, RBI Staff Colony, Mumbai Central","23017841, 23017860","Few Left, Book Now"
+Private,Prince Ali Khan Hospital,"Prince Ally Khan Hospital Rd, Tara Bagh, Mazgaon","23777800, 23777900",Available
+Private,Masina Hospital,"Sant Savata Mali Marg, near Byculla, Mustafa Bazar, Byculla",6.18E+15,Available
+Private,Kedar Hospital,"2nd Floor, Mazgaon Apartment, Mazgaon","23728588, 23787979",Available
+Private,"Balaji Hospital, Byculla (E)","Balaji House, 3rd Cross Lane, Victoria Road, Byculla East","23740000, 23745090",Available
+Private,Wockhardt Hospital,"Agripada, Mumbai Central","66804400, 66804272",Available
+Municipal,"Lokmanya Tilak Hospital, Sion","Dr. Babasaheb Ambedkar Road, Sion (West)","24063000, 24076381",Available
+Private,Dr Shilpa Abhyankar Nursing Home,"Hindu Colony, Dadar East","24143514, 24101618",Available
+Private,Mata Laxmi Trust Hospital,"Tamil Sangh Hall, Sion East",9821055856/24094713,Available
+Private,Mumbai Bunder Port Trust,"Nadkarni Park, Wadala",24129684/66567700,Available
+Municipal,King Edward Memorial (KEM) Hospital,"Acharya Donde Marg, Parel","9820703191, 24136051",Available
+Municipal,GTB Hospital,"Jerbai Wadia Marg, Sewri",24146993/96/97,Available
+Government,Tata Memorial Hospital,"Dr Ernest Borges Rd, Parel East","24177052, 24177256","Few Left, Book Now"
+Government,Mahatma Gandhi Memorial Hospital,"Dr SS Rao Marg, Parel East",24132575,"Few Left, Book Now"
+Private,Navroji Wadia Maternity Hospital,"Acharya Donde Marg, Parel East",24146963/65,Available
+Private,Bai Jerbai Wadia Hospital For Children,"Acharya Donde Marg, Parel",24129786,Available
+Private,Dr Gadre's Nursing & Maternity Hospital,"Govindji Keni Road, Dadar East",24148964,Available
+Private,Sobti Hospital,"Ambedkar Road, Matunga East",24159096,Available
+Private,Parel Hospital Pvt Ltd,"Jerbai Wadia Road, Parel",24159700/01/02/03/04,Available
+Private,"Global Hospital, Parel","Dr Ernest Borges Rd, opp. Shirodkar High School, Parel East",9987075033/8879688659,Available
+Private,Sewree Nursing Home,"Rafi Ahmed Kidwai Rd, Sewri West",24189792,Available
+Private,"Desai Memorial Hospital, Parel","Parmar Guruji Marg, Parel East",24162919,Available
+Private,"KB HB Charitable E N T Hospital, Parel","J Merwanji Street, Parel East,","24131190, 24102552",Available
+Private,"Life Care Nursing Home, Sewree","Rafi Ahmed Kidwai Rd, Sewri West","24102224, 9867841503",Available
+Private,"Maru Hospital, Parel","Railway Chawl, Pare","24717272, 24717474",Available
+Private,Aryan Hospital & ICU,"Kalachowki, Ambawadi","24715061, 9930303950",Available
+Private,"Ashvini Nursing & Maternity Home, Dadar (E)","Dadasaheb Phalke Road, Dadar East","24151340, 24179978",Available
+Private,"Dr B K Nadkarni Memorial Maternity & Surgical Hospital, Parel","Doctor BA Road, Aai Mai Merwanji St, Parel East","24122063, 9820042968",Available
+Private,Sadguru Maternity & Nursing Home,"Dr Baba Saheb Ambedkar Rd, next to Chitra Cinema, Dadar East",9820742641,Available
+Private,Dr. Shivdikar Hospital,"Tata Mill Chawl, Parel East",9821010184,Available
+Private,Rakhumai Hospital,"Merwanji Road, Parel",9321450100,Available
+Private,Dr. Shanbaug Children Hospital,"Merwanji Road, Parel",9833586719,Available
+Private,Dr. Niranjn Unesh Joshi Nursing Home,Parel East,9869001464,Available
+Private,Sprash Children Hospital,"Acharya Donde Marg, Parel",9820154966,Available
+Private,Shushrusha Hospital,"Ranade Road, Dadar(W)",24449161 9820302637,Available
+Private,Dhanvantari Hospital,"Shivaji Park, Dadar West","24304082, 9967026035",Available
+Private,Hinduja Hospital,"Near Shivaji Park, Mahim",24447182 9322280036,Available
+Private,Raheja Hospital,"Raheja Rugnalaya Marg, Mahim",9004479537/9833691321,Available
+Private,Life Care Hospital,"Sion Bandra Link Road, Dharavi",9820023473 / 24042588,Available
+Private,Shobhana Nursing Home,"A.S Gaya Marg, Mahim","24453055, 9820501113",Available
+Private,North Bombay Clinic,"Lady Jamshedji Rd, Mahim","24305373, 9820089321",Available
+Private,Dr Prabhu Eye Clinic and Nursing Home,"Joshi Vadi, Mahim West","24303346, 9892289882",Available
+Private,Citrus Nursing Home,"Sheshwadi, Dharavi",9820023473,Available
+Private,Dr Gandhi's Nursing Home Pvt Ltd,"NM Kale Marg, Dadar",9820303414,Available
+Private,Shree Nursing Home,"Pathare Prabhu Gokhale Road, Dadar West",24339292/9821054985,Available
+Private,Aayush Hospital,"90 Feet Road, Dharavi ",9819025705 9869976968,Available
+Private,Gupte Maternity Home,"Lt Dilip Gupte Marg, Mahim","24445906, 24465903",Available
+Private,Dr J M Purandare Hopsital,"Dr Madhukar B Raut Marg, Dadar West","24449501, 24451701",Available
+Trust,Tilak Hospital,"B.D.D Chawl, N.M Joshi Marg, Worli","24931939, 24221434",Unknown
+Government,ESIS Hospital,"BDD Chawl, Worli",022-24932428/9822331311,"Few Left, Book Now"
+Government,Poddar Hospital,"Dr. Annie Besant Road, Worli",022-24933533/9820864287,"Few Left, Book Now"
+Private,Siddhivinayak Health Care,"Khed Galli, Prabhadevi",9820074265; 24318488.,Available
+Private,"Parekh Nursing Home, Century Bazar","Adarsh Nagar, Prabhadevi",022-24933533/9820864287,Available
+Private,Sportsmed Mumbai Pvt Ltd,"Gokhale road, Parel West",9819779540,Available
+Private,JC Diagnostic Centre,"Ganapatrao Kadam Marg, Worli Naka",24922542/24946374,Available
+Private,Asha Surgical & Maternity Home,Gyaneshwar Apartment New Prabhadevi Road,24225477/24378813,Available
+Private,Dr. Punamiya Hospital,"near Tilak Bhavan, Dadar West",9324751621;,Available
+Private,Priyank Nursing Home,"Sayani Rd, Prabhadevi",24220404/9594113946,Available
+Private,Worli Hospital for Women,"Dr. Annie Besant Rd, Worli",24224241/2432 / 9220,Available
+Private,Nirmala Maternity & Surgical Hospital ,"NM Joshi Marg, Subhash Nagar",23012732/23062035/23073446,Available
+Municipal,V N Desai Municipal Gen Hospital,"Rd Number 11, Golibar, Santacruz East",9869004189,Available
+Government,Urban Health Centre,"60 Feet Road, Dharavi",2226425611,"Few Left, Book Now"
+Private,Asian Heart Institute & Research Centre,Bandra Kurla Complex,9820027691,Available
+Private,Guru Nanak Hospital & Research Centre,"Gandhi Nagar, Bandra East",9833090756,Available
+Private,Shivam Nursing Hospital,"Hari Mandir Road, Bandra East",9821225485,Available
+Private,Shakuntala Chitra Nursing Home,"Kherwadi, Bandra East",9819000099,Available
+Private,Agarwal Children Hospital,"Gandhi Nagar, Bandra East",9820051571,Available
+Private,M S Niron Hospital Pvt Ltd,"Vakola, Santacruz East",9869001464,Available
+Private,RK Hospital,"Near Railway Station Santacruz, Santacruz East",9867135786,Available
+Private,Sona Hospital,"Vakola Bridge, Santacruz East",9820062622,Available
+Private,Asha Pediatric Hospital,"Vidya Nagari, Kalina, Santacruz East",9773760367,Available
+Private,Wellcare Hospital,"Kalina, Santacruz East",9892969813,Available
+Private,Ashwin Maternity And Surgical Nursing Home,"Sen Nagar, Santacruz East",9022303912,Available
+Private,Astha Surgical Clinic,"Sen Nagar, Santacruz East",9869124305,Available
+Private,Dattatray Nursing Home,"Vakola, Santacruz East",9821517451,Available
+Private,Deepak Sheth Nursing Home,"Sen Nagar, Santacruz East",9892983437,Available
+Private,Durga Maternity Surgical Home,"Kolivery Village, Kalina",9820399378,Available
+Private,Laxmi Surgical Clinic & Nursing Home,"Kherwadi, Bandra East",9869030132,Available
+Private,M.S.Pallavi Maternity and Mothercare Centre,"Khernagar, Bandra East",9820120668,Available
+Private,M.S.Saideep Nursing Home,Santacruz East,98200008257,Available
+Private,Poojari Nursing Home,"Government Colony, Bandra East",9819581215,Available
+Private,Prashanti Medical Centre and Nursing Home,"Kalina, Santacruz East",9892686474,Available
+Private,Prathamesh Maternity and Nursing Home,"Gandhi Nagar, Bandra East",9820120668,Available
+Private,Prerna Nursing Home,"Gomes co-op housing society, Santacruz East",8097719926,Available
+Private,Pushpakunj Nursing Home,"Sen Nagar, Santacruz East",9821213456,Available
+Private,Raut Maternity Home,"Kalina village, Santacruz East",9820183757,Available
+Private,Sai Sanjeevani Hospital,"Shastri Colony, Santacruz East",7021485474,Available
+Private,Shastri Nursing Home,"Shanti Nagar, Vakola, Santacruz East",9870552556,Available
+Private,Sherekar Nursing Home,"Kalina, Santacruz East",8425861696,Available
+Private,Siddhi Nursing Home,"Sahar Road, Andheri East",9821223642,Available
+Private,Silver Coin Nursing Home,Vakola Pipeline Santacruz East,9819998100,Available
+Private,Upadhyay Nursing Home,"Moiz Apartment, 12th Rd, Santacruz East",9920490907,Available
+Private,Visual Eyez Clinic,"Kalina CHS, Santacruz East",9819601494,Available
+Private,M/s. Samarth Eye Care And Laser Centre,"Vakola, Santacruz East",9819120066,Available
+Private,Aastha Eye Care,"Old Anand Nagar, 4th Road, Santacruz East",9869124305,Available
+Private,Tanaya Nursing Home,"Jagat Vidya Marg, Bandra East",9167710136,Available
+Private,Sparsh Nursing Home,"7th Road, Khar, Golibar, Khar East",7400107576,Available
+Municipal,K B Bhabha Hospital,"Water Field Road, Bandra (W)","26422775, 26422541",Available
+Private,Lilavati Hospital,"Bandra Reclamation Rd, Bandra West","50598000, 50591000",Available
+Private,Holy Family Hospital,"Hill Road, Bandra West",62670555,Available
+Private,Agrawal Nursing Home,"Ann Ville, Bandra West",35009208,Available
+Private,Pali Nursing Home,"Manuel Gonsalves Rd, Bandra West","26420372, 26426778",Available
+Private,GM Medical Centre ,"S.V. Road, Khar (W)",9323466267,Available
+Private,Mahavir Medical Research Centre,"Ahimsa Marg, Khar West",2.60E+15,Available
+Private,Dr. Gupte Surgical Hospital Ltd,"S V Road, Khar West",26483025,Available
+Private,Shri Mangal Nursing Home,"Besant Rd, Santacruz West","26465768, 9820214492",Available
+Private,Shanti Nursing Home,"Santosh Nagar, Bandra West","26421144, 26423563",Available
+Private,Surya Children's Nursing Home,"Swami Vivekananda Rd, Santacruz West","61538989, 61538904",Available
+Private,Mahatma Gandhi Seva Mandir,"S.V. Road, Bandra West","26551752, 26558458",Available
+Government,ESIS Hospital,"MIDC, Andheri East",9999885368 ,"Few Left, Book Now"
+Municipal ,HBT (Thackeray) Trauma Care,"Sai Siddhi complex, Jogeshwari East",022-28224080/81/84/86,Available
+Private,Seven Hills Hospital,"Marol,  Andheri East","67676766, 9769992945",Available
+Private,Rainbow Women's Hospital,"Chakala, Andheri East",2.83E+17,Available
+Private,Dhanwantri Kerala Ayurved,"Chakala, Andheri East","32549763, 28204295",Available
+Private,Sanghvi Hospital,Lokhandwala Complex,66951210,Available
+Private,Kiran Care & Cure Hospital,"JB Nagar, Andheri East",9820134683,Available
+Private,Holy Spirit Hospital,"Sher E Punjab Colony, Andheri East",2228248500/1/2/3/4/5,Available
+Private,Mangala Hospital,"Bamandaya pada, Andheri East",022-29250544,Available
+Private,Sanjeevani Hospital,"Sahar Rd, Andheri East",022-26833939,Available
+Private,Sir H N Reliance Hospital,"Raja Ram Mohan Roy Rd, Girgaon",7738162050,Available
+Private,Sugun Hospital,"Marol, Andheri East",022-66869906,Available
+Private,All Cure Super Speciality Hospital,"Station Road, Jogeshwari East",7710049996,Available
+Private,Criticare Multi Speciality Hospital,"Teli Gali, Andheri East",8879026070/8291100248,Available
+Private,Goel Hospital,"J B Nagar, Andheri East",9820044753,Available
+Private,Hashir Hospital,"Marol, Andheri East",7709776057,Available
+Municipal,BSES Municipal Gen Hospital,"Lohana Colony, Andheri West",26283557 9930366512,Available
+Municipal,Dr. R N Cooper Hospital,"JVPD Scheme, Juhu",26207254/57,Available
+Private,Sanghvi Hospital,"Lokhandwala Complex, Andheri West",6695 1210,Available
+Private,Cozy Clinic & Nursing Home,"Seven Bungalow, Andheri West",2631 6226,Available
+Municipal,Dr Bhabha Hospital,"Waterfield Road, Bandra West",26503145 9833036685,Available
+Private,Arpan General Hospital,"Brahmanwadi, Kurla West","26500612, 26509852",Available
+Private,Dr. Zikruallah Khan Habib Hospital,"Lal Bahadur Shastri Marg, Kurla West",8691940150,Available
+Private,Neelam Nursing Home,"Lal Bahadur Shastri Marg, Kurla West",9699813530,Available
+Private,Kohinoor Hospital,"Lal Bahadur Shastri Marg, Kurla West",9022252267,Available
+Private,Aryan Hospital,"Nehru Nagar, Station Road, Kurla ",9320555777,Available
+Private,Disha Hospital,"Bhagwat Bhavan Building, Kurla West",7304028844,Available
+Private,Paramount Nursing Home,"Andheri Kurla Road, Andheri East",28590064,Available
+Municipal,Shatabdi Hospital,"Govandi East, Chembur",25564069/70/71,Available
+Municipal,Maa Hospital,"Ramakrishna Chemburkar Marg, Chembur East",25220333/34,Available
+Municipal,Deonar Maternity Home,"Deonar Municipal Colony, Govandi East",25563396,Available
+Government,RCF Hospital,"Aziz Baug, Chembur East",25563137,"Few Left, Book Now"
+Private,Noor Hospital,"Shivaji Nagar, Market Road, Govandi West",7582841617,Available
+Private,Nova Medical Centre,"Swastik Chamber,Chembur",43344600,Available
+Private,Jagannath Maternity & Nursing Home,"Baiganwadi, Govandi East",9930515102,Available
+Private,Saibaba Nursing Home,Akurli Nagar,9702786055,Available
+Private,Meenaz Hospital,"Shivaji Nagar, Govandi West",9833876612,Available
+Private,Charu Nursing Home,"Azad Nagar, Chembur",9029882580,Available
+Private,Sandhya Nursing Home,"Gulab Park Colony, Chembur",,Available
+Private,Vikas Nursing Home,"Shivaji Nagar, Govandi West",9821407740,Available
+Municipal,Dr. Das Hospital,"Chembur Gaothan, Chembur",25281960/25282101,Available
+Municipal,Inlaks General Hospital,"Indira Nagar, Chembur",25204160/25204161,Available
+Municipal,Sushrut Hospital & Research Centre,"Swastik Park, Chembur (East)",2.53E+15,Available
+Government,Kher Hospital,"Chembur Gaothan, Chembur",25284095/25280812,"Few Left, Book Now"
+Private,Mangal Anand Hospital,"Sion-Trombay Road, Chembur,",2.52E+15,Available
+Private,Dr. Sanjay Kedare Hospital,"DK Sandu Marg, Chembur",2.53E+15,Available
+Private,Ameeta Nursing Home,"Chembur Gaothan, Chembur",992039167/25284469,Available
+Private,Amarnath Children Hospital,"Sion - Trombay Rd, Chembur","25212337, 9821020598",Available
+Private,Ashirwad Hospital & Polyclinic,"Ghatla, Chembur",25211951/67988590/25,Available
+Municipal,Matoshree Ramabai Ambedkar Maternity Home,"Postal Colony, Chembur",25221726,Available
+Private,Disha Polyclinic & Nursing Home,"Opposite Bmc M Ward Office, Chembur",25274260,Available
+Private,Kolekar Hospital,"Ambedkar Garden, Chembur","25201157, 25201180",Available
+Private,Lakshmi Maternity Home,"11th Rd, Sampoorna, Chembur","25283930, 25280491",Available
+Private,"Manju Nursing Home, Sindhi Society","Sindhi Society, Chembur",25227968,Available
+Private,Markar Hospital,"Sanduwadi, Chembur",25277576,Available
+Private,Shree Hosptial,"Ambedkar Garden, Chembur","25288617, 9833693682",Available
+Private,Sunny Hospital,"Sunny Estate, Chembur","25225745, 25293013",Available
+Private,Swastik Hospital,"Swastik Park, Chembur",66841234 9820028557,Available
+Municipal,Rajawadi Hospital,"Rajawadi Colony, Ghatkopar East","2102 4150, 2102 4151/2/3",Available
+Municipal,Sant Muktabai Hospital,"Barve Nagar, Ghatkopar West","2512 6088, 2515 3771",Available
+Private,Sarvoday Hospital,"L B S Marg, Ghatkopar West",25152332,Available
+Private,Nulife Hospital,"Jivdaya Lane, Ghatkopar West",2509.970588,Available
+Private,Satyam Nursing Home,"L B S Marg, Ghatkopar West",2500 4409,Available
+Private,Parekh Hospital,"Khokani Lane, Ghatkopar East",67827000,Available
+Private,Pancholi Hospital,"Garodia Nagar, Ghatkopar East",2506 6108,Available
+Municipal,M W Desai Hospital,"Lower Govind Nagar, Malad East",9769607245,Available
+Municipal,SK Patil Hospital,"Pushpa Park, Malad East",7506740540,Available
+Private,Veena Nursing Home,"Poddar Rd, Malad East",9821225471,Available
+Private,Raj Nursing Home,"Pushpa Park, Malad East",9820132118,Available
+Private,Ever Shine Nursing Home,"New Link Road, Malad West",9867317681,Available
+Municipal,"Siddharth Hospital, Goregaon (W)","Aarey Rd, Goregaon West","28736848, 28773337",Available
+Private,Gokuldham Medical Centre,"Gokuldham Colony, Goregaon",2842 2716,Available
+Private,Vasudha Hospital,"Film City Road, Goregaon","2840 3115, 2849 3115",Available
+Private,Vaidya Hospital,"Film City Road, Goregaon",2849 2201,Available
+Private,Life Line Medicare Hosp,"Gokuldham Medical Center, Goregaon East","28402506, 28402507",Available
+Private,Matoshree Gomati Hospital,"Mahatma Gandhi Road, Goregaon West",61615716,Available
+Municipal,"Bhagwati Hospital, Borivali","Mandapeshwar, Borivali West",28932461/62/63,Available
+Trust,Karuna Hospital,"LIC Colony Rd, Borivali West","28934698, 61594698",Unknown
+Private,Mandapeshwar Hospital,"Near Sudhir Phadke Flyover, Borivali West",2893 8685,Available
+Private,Sanjeevani Hospital,"Near Ravindra Hotel, Dahisar ",2828 3212,Available
+Private,Gandhi Nursing Home,"Mandpeshwar Road, Borivali West",2895 4255,Available
+Private,Silverline Hospital,"Mhatre Wadi, Dahisar West",28920276,Available
+Municipal,Dr Babasaheb Ambedkar Hospital (Shatabdi Hospital),"Parekh Nagar, Kandivali West,","28647003/4, 9930468571",Available
+Government,ESIS Hospital,Kandivali,"28877501, 9821253642","Few Left, Book Now"
+Private,Mangalmurti Hospital,"Malwani Police Station Road, Malad West","28691232, 28693958",Available
+Private,Sanchaiti ,"Akurli Rd, Kandivali","40672800, 28851659",Available
+Municipal,KCS Bansali Maternity Home ,"Mhatre Wadi, Borivali West","28052235, 9930781642",Available
+Municipal,Charkop Maternity Home,"Charkop Gaon, Kandivali West","28679699, 9769394785",Available
+Municipal,Krantijyoti Savitribai Phule Maternity Home ,"L.B.S, Maruti Mandir Road",2.87E+15,Available
+Private,Dr. Ajmera Hospital ,SV Road,2.81E+17,Available
+Private,Dr. Patel Nursing Home,"Mhatre Wadi, Borivali West",2.90E+15,Available
+Private,Aanand Nursing Home,"Near Sona Theater, Borivali ",2.90E+15,Available
+Private,Purnima Hospital ,"Daulat Nagar, Borivali ","28949968, 28945328",Available
+Private,Mata Balak Maternity Home,"Siddharth Nagar, Kandivali",9892014360,Available
+Municipal,Savitribai Phule Maternity Home,"Maruti Mandir Rd, Bhandup",25947116/9869816160,Available
+Municipal,Ambedkar Maternity Home,"Tagore Nagar, Vikhroli",2.57E+17,Available
+Municipal,Jyotiba Phule General Hospital,"Kannamwar Nagar II, Vikhroli",02225662318/9869013598,Available
+Private,L.B.S Maternity Home ,"Dina Bama Estate, Bhandup",02225662318/9869013598,Available
+Private,Fortis Hospital,"Nahur West, Industrial Area, Bhandup West","49254295, 43654365",Available
+Private,Madhu Polyclinic and Nursing Home,"Sarvodaya Nagar, Bhandup West",25959802/9820153566,Available
+Private,Central Health Home Hospital,"Dreams Building, Bhandup",21664001,Available
+Private,Dr. Malwankar Romeen Nursing Home,"Gamdevi Road, Bhandup West",9820030022,Available
+Private,Gaurav Maternity and Surgical Hospital,"Jaydev Singh Nagar, Bhandup West",9821391780/02225949194,Available
+Private,Dr Badwaik Hospital,"Bhandup Village Rd, Nahur West",25661297,Available
+Private,Powai Polyclinic and Hospital,"Near South Indian Bank, Powai",9820102602/022257807,Available
+Municipal,Agarwal Municipal General Hospital ,Panch Rasta-Mulund West,25645524,Available
+Municipal,Veer Savarkar Hospital,"Hanuman Chowk, Mulund East",21636229,Available
+Government,ESIS Hospital,Mulund ,25645524,"Few Left, Book Now"
+Private,Heera Monghi Hospital,"Near Kalidas Natya Gruh, Mulund West,","25915577, 25600550",Available
+Private,Dhanvantari Hospital,"Siddharth Nagar, Mulund West","25616070, 25644706",Available
+Private,Sushrusha Hospital,"Shreenat Plaza L.T Road, Mulund East","21639361, 21639365",Available
