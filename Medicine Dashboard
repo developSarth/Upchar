@@ -1,0 +1,73 @@
+Upchar generates anonymized, aggregated medicine search intelligence based on user interactions with its AI medicine finder and symptom analyzer. 
+This data—when processed ethically and without personal identifiers—becomes a powerful resource for healthcare stakeholders who need real-world,
+real-time signals about medication demand.
+A sortable table / bar graph showing:
+
+Medicine name
+
+% share of searches
+
+Region of highest demand
+
+Category (antibiotic, painkiller, antacid, allergy meds, etc.)
+
+A map of India (or state) with heat colors showing:
+
+High demand regions
+
+Sudden spikes
+
+Low supply risk
+
+Seasonal shift zones
+
+Example:
+Mumbai: ↑ Flu meds
+Delhi: ↑ Antacids
+Chennai: ↑ Allergy meds
+
+Line charts showing how medicine demand changes month-wise.
+
+Flu medicines → peaks in winter
+
+ORS → peaks in summer
+
+Antihistamines → monsoon spikes
+
+This helps companies prepare inventory in advance.
+
+Pie/Bar charts for:
+
+Painkillers
+
+Antibiotics
+
+Allergy meds
+
+Gastric meds
+
+Diabetes meds
+
+Cold & cough segment
+
+Stakeholders can filter by:
+
+city
+
+state
+
+age group
+
+Shows what substitutes users search for after scanning an image or entering a medicine.
+
+Dashboard flags high-risk signals:
+
+spike in antibiotic searches
+
+rise in steroid medicines
+
+increase in sleep-inducing drugs
+
+misuse patterns
+
+Government bodies love this.
