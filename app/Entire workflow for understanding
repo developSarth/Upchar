@@ -1,0 +1,300 @@
+🧱 1. USER LOGS INTO UPCHAR
+✔ Step 1 — Firebase Authentication
+
+User logs in via mobile OTP / Google / email
+
+Firebase sends JWT to your frontend
+
+JWT is forwarded in all FastAPI requests
+
+✔ FastAPI verifies token:
+users.verify(firebase_token)
+
+
+Purpose:
+Authenticate without storing user passwords in SQL/Backend.
+
+🗂 2. DASHBOARD DATA FETCH (Backend → Frontend)
+
+As soon as the user enters Dashboard page:
+
+Frontend calls:
+
+GET /user/dashboard
+
+
+FastAPI aggregates multiple backend calls:
+
+history = SQL.get_user_history(uid)
+bookings = SQL.get_user_bookings(uid)
+recent_summary = SQL.get_latest_summary(uid)
+stats = SQL.get_user_stats(uid)
+
+
+Returns combined JSON:
+
+{
+  "name": "John",
+  "uid": "abc123",
+  "recent_summary": "...",
+  "recent_severity": "moderate",
+  "latest_symptoms": ["fever", "cough"],
+  "visit_history": [...],
+  "checkups": [...],
+  "analytics": {
+      "last_30_days_cases": 7,
+      "improvement_rate": "32%",
+      "common_symptoms": ["fever", "fatigue"]
+  }
+}
+
+🖥️ 3. DASHBOARD MAIN SECTIONS (UI)
+
+Your dashboard should have 6 primary cards:
+
+⭐ 1) Current Condition Overview
+
+Displays the latest analysis:
+
+🟡 Moderate Condition
+Symptoms: fever, cough
+Last Checked: Today, 4:12pm
+
+
+And optionally:
+
+"Summarize for Hospital" → Action button
+"Analyze Again" → Launch agent again
+
+⭐ 2) Symptom History Timeline
+
+A timeline/card view:
+
+Feb 3 → Fever, Body Pain (Moderate)
+Feb 1 → Cough, Throat Pain (Mild)
+Jan 28 → Fatigue, Headache (Mild)
+
+
+Backend Query:
+
+SELECT * FROM symptoms_history WHERE uid=?
+ORDER BY timestamp DESC
+
+⭐ 3) Past Clinic Visits / Hospital Admissions
+
+Each entry:
+
+Fortis Hospital
+Diagnosis: Viral infection suspected
+Date: 14 Jan
+Status: Visit completed
+Payment: ₹350
+
+
+Backend from SQL table:
+user_bookings
+
+⭐ 4) AI-Generated Health Summaries
+
+Every time the agent analyzes symptoms → store a short summary.
+
+Examples:
+
+“Moderate respiratory symptoms. Clinic visit recommended.”
+“Symptoms improving. Continue home care.”
+
+
+Stored as:
+
+user_summaries
+
+⭐ 5) Medicine Searches (From Image Model)
+
+If user used medicine scanner:
+
+Paracetamol 650 — Identified on Feb 3  
+Usage: Fever reducer  
+Alternative: Crocin, Dolo 650
+
+
+Backend table:
+
+medicine_history
+
+⭐ 6) Personal Analytics (Mini Dashboard)
+
+Small visuals:
+
+📈 Symptom frequency chart
+
+📊 Severity trend
+
+🔁 Recovery days
+
+⚠️ Potential patterns
+
+🗺 Health in your area (outbreak insights)
+
+Data from SQL analytics engine.
+
+⚙️ 4. BACKEND DATA MODEL (SQL)
+✔ Table: users
+
+Stores only:
+
+uid
+
+age_range
+
+gender (optional)
+
+location_code (pincode / district)
+
+✔ Table: symptoms_history
+record_id  
+uid  
+symptoms (JSON)  
+severity  
+ai_response (full)  
+summary (short text)  
+timestamp
+
+✔ Table: bookings
+booking_id  
+uid  
+clinic_id  
+clinic_name  
+type: clinic/hospital  
+payment_id  
+status  
+timestamp
+
+✔ Table: medicine_scans
+scan_id  
+uid  
+medicine_name  
+usage  
+image_url (optional)  
+timestamp
+
+✔ Table: anonymized_signals
+
+(Goes to analytics system)
+
+region  
+age_bucket  
+severity  
+symptom_cluster  
+timestamp  
+
+
+This is the data you share (ONLY IF CONSENTED).
+
+⚡ 5. AGENT INTERACTION + DASHBOARD UPDATE WORKFLOW
+Step-by-Step:
+Step A — User submits symptoms (buttons or text)
+
+Frontend:
+
+POST /agent/analyze
+{
+  "symptoms": ["fever", "cough"],
+  "severity_selected": "moderate"
+}
+
+
+FastAPI → calls Gradio text model.
+
+Step B — Model returns full analysis
+
+You save:
+
+full text
+
+summary (via summarizer)
+
+severity
+
+symptom list
+
+Step C — Summarizer Agent creates short dashboard summary
+
+Stored in:
+
+symptoms_history
+summaries
+
+Step D — Dashboard auto-refreshes with the new summary
+
+Screen updates:
+
+✔ Current condition
+✔ History timeline update
+✔ Severity trend updated
+✔ Outbreak risk check
+
+🛰️ 6. Anonymized Data Flow
+
+If user consented:
+
+Store only:
+
+region
+
+symptom cluster
+
+severity
+
+timestamp
+
+Then analytics engine aggregates:
+
+region → cases today  
+region → rising trend  
+region → top symptoms  
+region → severity distribution  
+
+
+Dashboard shows something like:
+
+⚠️ 14% rise in fever cases in your area this week.
+
+⚡ 7. DASHBOARD WORKFLOW SUMMARY (FOR JUDGES)
+
+User → Agentic AI → Summary → Dashboard → Analytics → Outbreak Insight
+
+Full chain:
+
+User logs in (Firebase)
+
+User submits symptoms
+
+AI agent analyzes (Gradio API)
+
+Backend generates & stores:
+
+full report
+
+short summary
+
+severity
+
+FastAPI writes to SQL + anonymized signals
+
+Dashboard fetches latest data
+
+Pulse analytics update based on patterns
+
+User sees:
+
+current condition
+
+timeline
+
+visits
+
+medicines scanned
+
+mini analytics
+
+outbreak in their area
