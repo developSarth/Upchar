@@ -1,0 +1,36 @@
+⭐ GOAL
+
+When a user opens the Dashboard, the backend should retrieve:
+
+Latest summary
+
+Symptom history
+
+Visit history
+
+Bookings
+
+Medicine scans
+
+Personal analytics
+
+All from your database only — NOT from the LLM, NOT from RAG.
+
+# This keeps dashboard:
+✔ Fast
+✔ Reliable
+✔ Cheap
+✔ Always available
+✔ Independent of AI agent runtime
+Every time a user uses your AI:
+
+Save:
+uid
+symptoms (list)
+severity (selected or suggested)
+llm_full_output
+llm_summary
+timestamp
+
+
+This makes dashboard retrieval instant and clean

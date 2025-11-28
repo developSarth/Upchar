@@ -5,8 +5,7 @@ Upchar is an AI-powered healthcare assistant that detects diseases from symptoms
 If the symptoms are severe, we provide an option for a clinic visit or hospital admission, choice given to the user. 
 It also helps users find medicines with their usage and affordable alternatives. 
 
-The two pictures attached are basic prototypes of the end goal we dream to achieve
-The first picture : Showcases the home page or the base interface of the website, with the logo being "Up4" because our website primarily comprises of 4 main features :
+The logo being "Up4" because our website primarily comprises of 4 main features :
 
 1. Disease detection, even if complex or odd symptoms are provided.
 
@@ -28,7 +27,7 @@ Therefore no data leaks or privacy breaches.
 
 
 Revenue Model:- 
-A very practical and monetizable flow,which fits beautifully into Upchar’s value proposition, will be. You’re basically adding an on-demand care triage + booking system with a commission model.
+A very practical and monetizable flow,which fits beautifully into our's value proposition, will be, basically adding an on-demand care triage + booking system with a commission model.
 Symptom Analysis → Severity Check
 
 i) AI classifies case as:
@@ -55,7 +54,7 @@ i) Commission % on each confirmed appointment/admission (like Zomato/Swiggy but 
  A very practical and monetizable flow,which fits into Upchar’s value proposition.
  Basically adding an on-demand care triage + booking system with a commission model.
 
-ii) Another alternative or option will be a subscription model for user, monthly as well as annually, as in to book the clinic appointment or hospital bed quickly with only the fee paid for the service (Doctor/Hospital) .
+ii) Another alternative or option will be a subscription model for user, monthly as well as annually, as in to book the clinic appointment or hospital bed quickly with only the fee paid for the service (Doctor-Clinic/Hospital) .
 
 iii) The second revenue source will be :-
  Subscription model → Early-warning health analytics for outbreak detection (e.g., dengue spike in Dharavi).
